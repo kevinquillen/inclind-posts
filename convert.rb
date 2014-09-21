@@ -1,4 +1,5 @@
 require 'csv'
+require 'sanitize'
 
 posts = []
 rows = CSV.read(File.path("posts.csv"))
@@ -14,9 +15,13 @@ rows.each do |row|
   title.gsub!(/[^0-9a-z ]/i, '')
   title.gsub!(' ', '-')
 
-  body.gsub!('<p>', '')
-  body.gsub!('</p>', "\n\n")
   body.gsub!(/\s+/, ' ')
+
+  body = Sanitize.clean(body,
+    :elements => ['a', 'ul', 'ol', 'li', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'em', 'strong', 'b'],
+    :attributes => {
+      'a' => ['class', 'href', 'title', 'name', 'alt', 'id', 'target'],
+    })
 
   filename = created + '-' + title + '.md'
 
