@@ -1,0 +1,16 @@
+---
+layout: journal
+title: Back from Drupalcon Chicago!
+tags: 
+- web design
+- delaware web developer
+- delaware web design
+- drupalcon chicago
+- drupalcon 2012
+- content management system
+- content management framework
+show_chat: true
+show_contacts: false
+---
+
+This blog post is coming at you from 35,000 feet in the air. Lookout below! This week we were able to attend our second Drupalcon as a company. For those who don&#39;t know, Drupalcon is a gathering of web developers, web designers, and companies who work on Drupal who gather twice a year to show off new things, hold informative sessions, and network with others. This year, it was in Chicago. None of us had been to Chicago before, but had always wanted to go (crossing off our list). Small town folk in a big boy town. Eye opening indeed. Drupalcon Chicago was even bigger than the one in DC in 2009. More sessions, more speakers, more fun. There was an estimated 3000 people in attendance. I noticed at least two dozen community noteables walking around on the first day. Folks like Dries Butayert (lead), K&aacute;roly N&eacute;gyesi chx (core), Jen Simmons (themer / HTML5 initiative), Jeff Eaton (Lullabot), Angie Byron (webchick, Lullabot), and countless others from Phase 2, Development Seed, Acquia and Commerce Guys. Even Jeremy Keith was there. He assisted on HTML5 spec, I&#39;ve read his book &quot;HTML5 for Web Designers&quot; (twice!), he&#39;s well respected and very sharp guy.&nbsp; We have always been an steadfast fan/supporter of our friends at Development Seed (Washington D.C.) from their work, their contributions and their passion to help others. If you haven&#39;t seen what they do, check them out. They are really doing amazing stuff, doing their part to change the world where they can. It was a real pleasure hearing Eric Gunderson (DevSeed CEO) speak in a few sessions. He is a very intelligent, driven, passionate individual. Eric simply eminates a love for what he does (as does all DevSeed), is brutally honest, and runs a very talented team. Ian, if you&#39;re reading this, sorry we could not meet up- bring the team out to Dogfish Head for a day this spring! We also enjoyed amazing presentations by Larry Garfield (Palantir), Steven Merrill (Treehouse Agency), Jeff Eaton (Lullabot), Jen Simmons (Palantir), and Tim Cosgrove &amp; Brian McMurray (Treehouse Agency). There is so much information to digest, we are collecting our thoughts to discuss as a team as to how we can use the knowledge to better our company and give back to the community. We love working with Drupal, working with others, and helping people succeed. Our experience at Drupalcon reinforced our belief in the directions we are taking our own company as well as supporting others, and making projects successful. Drupal 7 is killer, and Drupal 8 is going to be bigger, badder, and better than you&#39;ve ever seen Drupal or any other content management system. The best is yet to come. Drupalcon London or Drupalcon Denver? Hmm, decisions decisions. The plane is now landing in Baltimore. See you soon!
